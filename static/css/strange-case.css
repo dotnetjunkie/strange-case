@@ -321,3 +321,8 @@ blockquote {
 div.sidebar-content p {
  text-align: left;
 }
+
+div.post a {
+	color: #337ab7;
+	text-decoration: underline;
+}
