@@ -296,3 +296,28 @@ p.attr {
 .scheme-slate .post .post-heading span {
 	color: #9a9a9a;
 }
+
+/* Changes for the Simple Injector blog */
+p {
+ text-align: justify;
+}
+
+ol, ul {
+ font-size: 1.2em;
+}
+
+@media (min-width: 992px)
+{
+ .col-md-6 {
+  width: 60%;
+ }
+}
+
+blockquote {
+ font-style: italic;
+ font-size: 1.2em;
+}
+
+div.sidebar-content p {
+ text-align: left;
+}
